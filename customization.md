@@ -28,4 +28,4 @@
 </body> 
 
 Link to additional feature: 
-<a href=""> link</a>
+<a href="hacks.html"> link</a>
