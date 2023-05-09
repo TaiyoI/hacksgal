@@ -17,7 +17,7 @@
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Taiyo's hacks website</h1>
               <p>
                 Highschool student who has been coding for 3 years.
               </p>
@@ -27,5 +27,3 @@
         </main>
 </body> 
 
-Link to additional feature: 
-<a href="hacks.html"> link</a>
